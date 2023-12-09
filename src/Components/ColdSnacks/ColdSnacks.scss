@@ -1,0 +1,22 @@
+.title {
+  display: flex;
+  align-items: center;
+  margin-left: 91px;
+  hr {
+    border: 0;
+    width: 33px;
+    height: 4px;
+    transform: rotate(90deg);
+    flex-shrink: 0;
+    background: #618967;
+  }
+  p {
+    color: #fff;
+    font-family: Gilroy;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+  }
+}
